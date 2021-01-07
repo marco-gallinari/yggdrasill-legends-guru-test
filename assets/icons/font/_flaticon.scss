@@ -1,0 +1,74 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 02/01/2021 11:02
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fi:before{
+    display: inline-block;
+    font-family: "Flaticon";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+    .flaticon-stadium:before { content: "\f100"; }
+.flaticon-sword:before { content: "\f101"; }
+.flaticon-sword-1:before { content: "\f102"; }
+.flaticon-trophy:before { content: "\f103"; }
+.flaticon-sword-2:before { content: "\f104"; }
+.flaticon-podium:before { content: "\f105"; }
+.flaticon-dice:before { content: "\f106"; }
+.flaticon-monarchy:before { content: "\f107"; }
+.flaticon-paintball:before { content: "\f108"; }
+.flaticon-armor:before { content: "\f109"; }
+.flaticon-wizard:before { content: "\f10a"; }
+.flaticon-monster:before { content: "\f10b"; }
+.flaticon-crown:before { content: "\f10c"; }
+.flaticon-antibiotic:before { content: "\f10d"; }
+.flaticon-archery:before { content: "\f10e"; }
+.flaticon-warrior:before { content: "\f10f"; }
+.flaticon-guardian:before { content: "\f110"; }
+
+    $font-Flaticon-stadium: "\f100";
+    $font-Flaticon-sword: "\f101";
+    $font-Flaticon-sword-1: "\f102";
+    $font-Flaticon-trophy: "\f103";
+    $font-Flaticon-sword-2: "\f104";
+    $font-Flaticon-podium: "\f105";
+    $font-Flaticon-dice: "\f106";
+    $font-Flaticon-monarchy: "\f107";
+    $font-Flaticon-paintball: "\f108";
+    $font-Flaticon-armor: "\f109";
+    $font-Flaticon-wizard: "\f10a";
+    $font-Flaticon-monster: "\f10b";
+    $font-Flaticon-crown: "\f10c";
+    $font-Flaticon-antibiotic: "\f10d";
+    $font-Flaticon-archery: "\f10e";
+    $font-Flaticon-warrior: "\f10f";
+    $font-Flaticon-guardian: "\f110";
