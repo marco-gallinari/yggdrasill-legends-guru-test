@@ -129,6 +129,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ngx-material-file-input
 MIT
 
+ngx-webstorage
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
